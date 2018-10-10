@@ -3,7 +3,7 @@ with (import <nixpkgs> {});
 
 mkShell {
   buildInputs = [
-    dmd dub rdmd
+    dmd dub gnumake
   ];
 }
 
