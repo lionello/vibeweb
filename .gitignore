@@ -1,0 +1,11 @@
+.dub
+docs.json
+__dummy.html
+*.o
+*.obj
+__test__*__
+.vscode
+dub.selections.json
+public/GITHEAD
+vibeweb
+bin
