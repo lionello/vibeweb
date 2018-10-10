@@ -13,6 +13,8 @@ make # or: dub
 
 ## Provisioning on Azure
 
+This uses the [azure-cli](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli). Get it with `brew install azure-cli`.
+
 ```sh
 az login
 az group create --name rg-vibeweb --location eastasia
